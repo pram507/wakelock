@@ -1,3 +1,5 @@
+// ignore_for_file: invalid_annotation_target
+
 import 'package:flutter_test/flutter_test.dart';
 import 'package:wakelock/wakelock.dart';
 import 'package:wakelock_platform_interface/wakelock_platform_interface.dart';
